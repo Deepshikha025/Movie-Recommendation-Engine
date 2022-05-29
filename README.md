@@ -17,7 +17,7 @@ https://www.kaggle.com/datasets/carolzhangdc/imdb-5000-movie-dataset
 * Clone my Repository and make sure that if you change folder location, do change it in movie-web(jupyter notebook) file.
 * Open CMD in working directory.
 * Run the command.
-  **pip install -r requirements.txt**
+  **pip install ~r requirements.txt**
 * In Streamlit-Web Application, **App.py** is the main file.
 * For running the app, run the command in CMD or in the terminall of streamlit.
   **streamlit run App.py**
